@@ -22,6 +22,7 @@ controllerpowerstate();
 sensor_t sensor;
 dht.temperature().getSensor(&sensor); 
 dht.humidity().getSensor(&sensor);
+  // initial Welcome text "Epic flow"
 
 }
 
