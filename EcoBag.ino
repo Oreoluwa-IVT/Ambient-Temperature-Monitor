@@ -33,7 +33,7 @@ lcd.print(F("Temp: "));
 lcd.setCursor(8,0);
 lcd.print(event.temperature);
 
-
+//okay
   
 }
 
